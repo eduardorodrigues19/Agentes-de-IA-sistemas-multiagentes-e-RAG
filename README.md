@@ -3,10 +3,15 @@ Repositório dedicado ao estudo e aprofundamento de Agentes de IA, sistemas mult
 
 Levantamento do hardware utilizado pelo aluno: 
 Processador: I5-3570 3.4 GHz
+
 Memória RAM: 32 GB
+
 SO: Windows 10 Pro
+
 Espaço em disco disponível: 50 GB
 
 Linguagem de programação: Python
+
 Mecanismo de inferência local: Ollama
+
 Editor de texto que escolhi: VS Code com extensão do Jupyter notebook 
