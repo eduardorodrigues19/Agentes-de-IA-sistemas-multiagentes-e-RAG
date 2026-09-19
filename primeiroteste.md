@@ -8,7 +8,9 @@ Resposta: O TCP é um protocolo orientado à conexão que garante a entrega conf
 Realizando o mesmo prompt no mesmo modelo analisado localmente:
 Preparando o ambiente: 
 Via terminal do VS Code:
+
 ollama pull qwen2.5:1.5b
+
 ollama run qwen2.5:1.5b
 
 Código usado: 
